@@ -2,3 +2,8 @@ body{
 
 
 }
+head{
+background-image:linear-gradient(to top,orange,gold,yellow,red);
+border:10px dashed #1F1AB2;
+
+}

@@ -1,9 +1,12 @@
 body{
-
+text-align:center;
 
 }
 nav{
 background-image:linear-gradient(to top,orange,gold,yellow,red);
 border:10px dashed #1F1AB2;
+}
+h1 hav{
+text-shadow:3px 3px 5px #4AE83A;
 }
 
